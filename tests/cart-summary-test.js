@@ -1,3 +1,7 @@
+/*
+ TESTS IN BDD STYLE
+ */
+
 const chai = require('chai'),
 	expect = chai.expect,
 	CartSummary = require('../src/js/cartSummary.js');
